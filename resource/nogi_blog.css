@@ -49,13 +49,13 @@ a img{border:0;}
 	width:980px;margin:0 auto;
 	}
 #head{
-	background:#fff url(https://img.nogizaka46.com/blog/img/headbg.gif) 0 bottom no-repeat;
+	background:#fff url(/resource/img/headbg.gif) 0 bottom no-repeat;
 	padding:10px 15px 14px;
 	margin-bottom:9px;
 	}
 #logo{
 	text-indent:-5000px;
-	background:url(https://img.nogizaka46.com/blog/img/logo.gif) 0 0 no-repeat;
+	background:url(/resource/img/logo.gif) 0 0 no-repeat;
 	width:280px;height:84px;
 	}
 	#logo a{display:block;width:280px;height:84px;}
@@ -181,12 +181,12 @@ a img{border:0;}
 .right2in{width:637px;padding:15px 0;overflow:hidden;}
 .left2{width:291px;float:left;padding:15px 0;}
 #blogbody{
-	background:#fff url(https://img.nogizaka46.com/blog/img/member_title.gif) 0 0 repeat-x;
+	background:#fff url(/resource/img/member_title.gif) 0 0 repeat-x;
 	}
-#blogs #blogbody{background-image:url(https://img.nogizaka46.com/blog/img/member_title2.gif);}
+#blogs #blogbody{background-image:url(/resource/img/member_title2.gif);}
 #staffblog #blogbody{background-image:url(https://img.nogizaka46.com/blog/img/member_title3.gif);}
 #bbin{
-	background:url(https://img.nogizaka46.com/blog/img/right1bg.gif) right 0 repeat-y;min-height:200px;
+	background:url(/resource/img/right1bg.gif) right 0 repeat-y;min-height:200px;
 	padding-left:15px;
 	}
 #blogmaintitle{height:60px;color:#fff;line-height:1;padding-left:8px;}
@@ -299,7 +299,7 @@ a img{border:0;}
 	padding:7px 10px 2px;
 	}
 #siderecententry li{
-	background:url(https://img.nogizaka46.com/blog/img/li2.gif) 0 7px no-repeat;
+	background:url(/resource/img/li2.gif) 0 7px no-repeat;
 	padding:3px 0 2px 11px;
 	border-bottom:dashed 1px #bf87c1;
 	}
@@ -399,11 +399,11 @@ a img{border:0;}
 	background:url(https://img.nogizaka46.com/blog/img/calendar_next.gif) 0 0 no-repeat;
 	}
 #daytable{
-	background:#ec658e url(https://img.nogizaka46.com/blog/img/daytablebg2.gif) 0 0 repeat;
+	background:#ec658e url(/resource/img/daytablebg2.gif) 0 0 repeat;
 	color:#fff;padding:10px 20px;
 	}
 #blogs #daytable{
-	background:#7e1083 url(https://img.nogizaka46.com/blog/img/daytablebg.gif) 0 0 repeat;
+	background:#7e1083 url(/resource/img/daytablebg.gif) 0 0 repeat;
 	}
 #staffblog #daytable{
 	background:#4f9bcc url(https://img.nogizaka46.com/blog/img/daytablebg3.gif) 0 0 repeat;
@@ -421,7 +421,7 @@ a img{border:0;}
 #sidelinks{margin-bottom:8px;padding:10px 8px 15px;}
 #sidelinks h2{color:#7e1083;padding-bottom:5px;}
 #sidelinks li{
-	background:url(https://img.nogizaka46.com/blog/img/li.gif) 0 4px no-repeat;
+	background:url(/resource/img/li.gif) 0 4px no-repeat;
 	padding:0 0 5px 11px;
 	}
 
@@ -441,7 +441,7 @@ a img{border:0;}
 .paginate{text-align:center;padding:3px 0 10px;font-family:futura,arial;color:#e2437a;}
 
 
-#sheet h1{border:solid 3px #7e1083;background:url(https://img.nogizaka46.com/blog/img/datebg.gif) 0 0 repeat-y;}
+#sheet h1{border:solid 3px #7e1083;background:url(/resource/img/datebg.gif) 0 0 repeat-y;}
 #sheet h1 .date{
 	float:left;width:100px;background:#7e1083;
 	display:block;color:#fff;text-align:center;
@@ -458,7 +458,7 @@ a img{border:0;}
 #sheet h1 .author{display:block;border-bottom:dashed 1px #7e1083;padding:10px 0 5px;margin:0 8px;font-weight:normal;line-height:1;}
 #sheet h1 .entrytitle{display:block;padding:8px 0;margin:0 5px;font-size:120%;line-height:1.2;}
 #sheet .fkd{
-	background:url(https://img.nogizaka46.com/blog/img/entrytitlefkd.gif) 0 0 no-repeat;
+	background:url(/resource/img/entrytitlefkd.gif) 0 0 no-repeat;
 	width:12px;height:15px;margin-left:45px;
 	}
 .entrybody{line-height:2;padding:0 6px 20px;}
