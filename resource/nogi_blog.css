@@ -35,7 +35,7 @@ embed,object{outline:none;}
 body{text-align:center;background:#7e1083;color:#fff;}
 a{text-decoration:underline;outline:none;color:#fff;}
 #container{
-	background:#7e1083 url(resource/img/pattern.jpg) center 0 repeat;
+	background:#7e1083 url(/resource/img/pattern.jpg) center 0 repeat;
 	color:#333;padding:0 0 30px;
 	}
 #container a{color:#7e1083;}
